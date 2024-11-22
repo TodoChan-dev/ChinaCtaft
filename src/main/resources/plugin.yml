@@ -1,0 +1,4 @@
+name: ChinaCtaft
+version: '1.0.0'
+main: jp.tproject.chinaCtaft.ChinaCtaft
+api-version: '1.21'
